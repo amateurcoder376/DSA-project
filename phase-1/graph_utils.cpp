@@ -1,0 +1,1 @@
+// basic graph functions that are common to all graphs.
